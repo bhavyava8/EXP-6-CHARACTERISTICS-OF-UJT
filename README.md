@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="Screenshot 2026-11-27 130056" src="https://github.com/user-attachments/assets/44536d79-cb4d-42b3-a7f8-d46e6130147d" /># EXP-6-CHARACTERISTICS-OF-UJT
+CHARACTERISTICS-OF-UJT
 1. AIM
 To plot the characteristics of UJT (2N2446) and to determine the intrinsic stand-off ratio from the graph.
 2. SOFTWARE REQUIRED
